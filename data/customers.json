@@ -1,0 +1,17 @@
+[
+  {
+    "id": "DEMO-K001",
+    "name": "Demo North / Beispielbetrieb Nord",
+    "installation": {"type": "F-01", "capacity_t_h": 8}
+  },
+  {
+    "id": "DEMO-K002",
+    "name": "Demo West / Beispielbetrieb West",
+    "installation": {"type": "F-01", "capacity_t_h": 3}
+  },
+  {
+    "id": "DEMO-K003",
+    "name": "Demo South / Beispielbetrieb Süd",
+    "installation": {"type": "F-01", "capacity_t_h": null}
+  }
+]
